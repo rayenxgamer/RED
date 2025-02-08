@@ -1,0 +1,3 @@
+/home/ray/C/Projects/RED/build/CMakeFiles/RED.dir
+/home/ray/C/Projects/RED/build/CMakeFiles/edit_cache.dir
+/home/ray/C/Projects/RED/build/CMakeFiles/rebuild_cache.dir
